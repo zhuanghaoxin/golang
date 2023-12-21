@@ -1,0 +1,8 @@
+svr_config:
+  svr_name: "go-user-center"
+  port: 8080
+db:
+  url: "127.0.0.1:3306"
+  user: "root"
+  password: "87906413"
+  dbname: "test"
